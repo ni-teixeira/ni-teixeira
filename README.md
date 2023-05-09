@@ -1,16 +1,13 @@
-### Hi there 👋
+### ˖ ݁ . ⁺ 𓆩 ♡ 𓆪 ⁺ . ݁ ˖ .
 
-<!--
-**nico-ly/nico-ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 𓂃 stats ♡
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=nico-ly&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=C91800&title_color=C91800&icon_color=C91800" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-ly&hide_progress=true&hide_border=true&bg_color=0D1117&text_color=C91800&title_color=C91800&icon_color=C91800)](https://github.com/nico-ly/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 𓂃 links ♡
+    
+[<img src="https://img.shields.io/badge/linkedin-%230D1117.svg?&style=for-the-badge&logo=linkedin&logoColor=C91800" />](https://www.linkedin.com/in/nicolyteixeira/) 
+[<img src="https://img.shields.io/badge/-Behance-0D1117?style=for-the-badge&logo=behance&logoColor=C91800" />](https://behance.net/nico-ly)
+
