@@ -1,13 +1,29 @@
 ### ˖ ݁ . ⁺ 𓆩 ♡ 𓆪 ⁺ . ݁ ˖ .
 
-### 𓂃 stats ♡
-
-
-<div style="display: inline_block">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni-teixeira&layout=compact&langs_count=7&bg_color=0D1117&text_color=C91800&title_color=C91800&icon_color=C91800)](https://github.com/ni-teixeira/github-readme-stats"/>
-
-### 𓂃 links ♡
+<table>
+    <tr>
+        <!-- Ajuste da largura da célula -->
+        <td style="width: 70%;">
+            <!-- Ajuste da largura da imagem -->
+            <img src="https://github.com/ni-teixeira/ni-teixeira/blob/main/a.jpg" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">    
+                
+        𓂃 ni-teixeira !! ♡
     
-[<img src="https://img.shields.io/badge/linkedin-%230D1117.svg?&style=for-the-badge&logo=linkedin&logoColor=C91800" />](https://www.linkedin.com/in/nicolyteixeira/) 
-[<img src="https://img.shields.io/badge/-Behance-0D1117?style=for-the-badge&logo=behance&logoColor=C91800" />](https://behance.net/ninicodes)
+</p>                                                                                                                            
+                                                                                                  
+                                                                                                    
+        
+    𓂃 about me: ♡
+
+    
+    ⌗ she/her - (pt/br + english)
+
+    ⌗ software developer, computer science student  
+                                            
+    ⌗ 𐙚 skills: ꒱
+        ⤷ data science
+        ⤷ english
+        ⤷ graphic design
