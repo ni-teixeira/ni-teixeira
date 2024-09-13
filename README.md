@@ -3,9 +3,9 @@
 <table>
     <tr>
         <!-- Ajuste da largura da célula -->
-        <td style="width: 70%;">
+        <td style="width: 50%;">
             <!-- Ajuste da largura da imagem -->
-            <img src="https://github.com/ni-teixeira/ni-teixeira/blob/main/a.jpg" style="width:100%; border: none;"/>
+            <img src="https://github.com/ni-teixeira/ni-teixeira/blob/main/11.jpg" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
