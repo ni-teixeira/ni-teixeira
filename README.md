@@ -17,7 +17,7 @@
     
     ⌗ software developer, computer science student
     
-    ⌗ 𐙚 skills: ꒱
+    𐙚 skills: ꒱
         ⤷ data science
         ⤷ english
         ⤷ graphic design
