@@ -6,9 +6,9 @@
         
         𓂃 about me: ♡
         
-        ⭑.ᐟ she/her
-        
-        ⭑.ᐟ software developer
+            ⭑.ᐟ she/her
+            
+            ⭑.ᐟ software developer
         
         𐙚 skills: ꒱
             ⤷ data science
