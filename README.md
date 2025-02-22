@@ -5,19 +5,15 @@
                                                                                                     
         
         𓂃 about me: ♡
-        
-            ⭑.ᐟ she/her
+            ⋆ she/her
+            ⋆ data science
+            ⋆ (pt/br + english)
             
-            ⭑.ᐟ software developer
-        
-        𐙚 skills: ꒱
-            ⤷ data science
-            ⤷ (pt/br + english)
-            
-        𐙚 skills: ꒱
-            ⤷ HTML, CSS, JavaScript, NodeJS
+        𐙚 skils: ꒱
+            ⤷ HTML, CSS, Javascript, NodeJS
             ⤷ MySQL, Docker, AWS
             ⤷ Java, Python, R
+            ⤷ UI, UX - Figma, Photoshop
         
 </tr>
 </table>
