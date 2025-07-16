@@ -11,14 +11,17 @@
             
         ## 𐙚 Skills
         
-        ꒱ ⚙️ 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱  
-           ⤷ Java · Spring · Node.js · Python · R
+        ꒱ ⚙️ Back-end  
+           ⤷ Java · Spring · Node.jsS
         
-        ꒱ 🎨 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱  
-           ⤷ HTML · CSS · JavaScript · UI/UX · Figma · Photoshop
+        ꒱ 🎨 Front-end  
+           ⤷ HTML · CSS · JavaScript · React · UI/UX · Figma · Photoshop
+
+        ꒱ ⚙️ Data Science  
+           ⤷ Python · R
         
-        ꒱ ☁️ 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱  
-           ⤷ MySQL · Docker · AWS (EC2, S3, Lambda)
+        ꒱ ☁️ DevOps & Cloud 
+           ⤷ MySQL · Docker · AWS · Azure
     
 </tr>
 </table>
