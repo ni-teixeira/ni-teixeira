@@ -12,7 +12,7 @@
         ## 𐙚 Skills
         
         ꒱ ⚙️ Back-end  
-           ⤷ Java · Spring · Node.jsS
+           ⤷ Java · Spring · Node.js
         
         ꒱ 🎨 Front-end  
            ⤷ HTML · CSS · JavaScript · React · UI/UX · Figma · Photoshop
