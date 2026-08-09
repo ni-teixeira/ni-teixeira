@@ -17,9 +17,9 @@
 
   <b>$ tech:</b><br>
     ▸ java · spring boot · jpa · hibernate  
-    ▸ rest apis, jwt · oauth · rabbitmq · redis  
+    ▸ rest apis · jwt · oauth · rabbitmq · redis  
     ▸ microservices · system design  
-    ▸ mysql · docker · aws
+    ▸ mysql · docker · aws </br>
     ▸ junit · mockito
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWsyOHlmYXdldmhlbTF0NGkxb2ZlOThzdjJxb2JmYmN4bHBzcG00NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i8Q77qmA5TPdAj65dM/giphy.gif" width="200" />
